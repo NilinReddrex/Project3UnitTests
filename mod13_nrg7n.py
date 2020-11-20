@@ -2,7 +2,7 @@ import unittest
 from SymbolInput import SymbolInput
 from ChartTypeInput import ChartTypeInput
 from TimeSeriesInput import TimeSeriesInput
-from startDateInput import StartDateInput
+from StartDateInput import StartDateInput
 from EndDateInput import EndDateInput
 
 class TestInputs(unittest.TestCase):
